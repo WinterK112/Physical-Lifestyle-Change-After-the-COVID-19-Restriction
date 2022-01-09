@@ -1,0 +1,40 @@
+Timestamp, Which region/province do you live in?,Is your city/town defined as a COVID-19 hotspot?,Did you get the COVID-19 Vaccination?,"On a scale of 1 to 5, how do you think the COVID-19 lockdown impacts your lifestyle physically? (i.e., choose 5 if you are strongly affected and choose 1 if you are not strongly impacted)","How many days did you go outside per week on average *BEFORE* COVID-19 lockdown on average? (including all the activities, such as going to school, grocery shopping, meeting friends, exercising etc.) Count all days in a week except you stayed home for the whole day.","How many days do you go outside per week *AFTER* COVID-19 lockdown on average? (including all the activities, such as going to school, grocery shopping, meeting friends, exercising etc.) Count all days in a week except you stayed home for the whole day.",How long did you exercise on average in a week *BEFORE* the COVID-19 lockdown? (in minutes),How long do you exercise on average in a week *AFTER* the COVID-19 lockdown? (in minutes),Are you willing to work out more if the workout area is more accessible during the lockdown?,"On a scale of 1 to 10, how would you score your personal health *BEFORE* the COVID-19 lockdown? (i.e., if you think you were very healthy, choose 10 and if you think you were not healthy at all, select 1)","On a scale of 1 to 10, how would you score your personal health *AFTER* the COVID-19 lockdown? (i.e., if you think you are very healthy, choose 10 and if you feel you are not healthy at all, select 1)",How do you think about your activity level after the COVID-19 restriction compared to before the limitation?,"Fill out this question if you chose ""somewhat different"" or ""very different"" from the previous question. On a scale of 1 to 5, how do you think your activity level will change back to normal after the restriction? (i.e., if you believe your activity level will strongly change to regular, select 5, and if you do not think it will never change, select 1)"
+5/8/2021 0:24:03,Ontario,Yes,No,5,6,2,200,60,Yes,7,3,Very different,4
+5/8/2021 1:00:26,Ontario,Yes,No,4,6,4,0,0,No,3,2,Somewhat different,1
+5/8/2021 1:06:12,Nunavut,No,No,3,7,4,100,30,Yes,9,4,Very different,4
+5/8/2021 2:30:24,British Columbia,Yes,Yes,4,5,1,120,30,Yes,9,5,Somewhat different,5
+5/8/2021 2:55:02,British Columbia,No,Yes,5,4,1,60,60,No,8,5,Somewhat similar,
+5/8/2021 6:41:00,British Columbia,No,No,5,5,2,210,30,Yes,9,5,Very different,5
+5/8/2021 7:32:09,Quebec,Yes,Yes,5,7,5,300,100,Yes,10,4,Very different,5
+5/8/2021 7:43:22,Alberta,No,No,5,5,1,250,30,Maybe,10,7,Somewhat different,4
+5/8/2021 8:22:05,Quebec,Yes,Yes,4,6,3,100,30,Yes,8,3,Very different,5
+5/8/2021 9:13:25,Ontario,Yes,No,5,6,1,700,100,Yes,9,7,Somewhat different,4
+5/8/2021 9:48:17,Saskatchewan,No,No,5,6,1,500,60,Yes,10,6,Very different,5
+5/8/2021 9:51:28,Manitoba,Maybe,No,4,5,1,100,0,Maybe,9,5,Not sure,
+5/8/2021 9:53:46,Ontario,Yes,Yes,4,5,0,200,30,Maybe,10,6,Somewhat different,5
+5/8/2021 9:56:14,Quebec,Yes,Yes,5,6,1,400,100,No,9,4,Very different,5
+5/8/2021 10:12:21,Nova Scotia,No,No,4,7,4,150,100,Yes,10,6,Very different,4
+5/8/2021 10:30:40,Saskatchewan,No,No,4,7,3,500,250,Maybe,9,7,Very different,4
+5/8/2021 11:00:02,Ontario,No,No,5,7,1,500,100,No,10,9,Somewhat different,3
+5/8/2021 11:12:08,British Columbia,Yes,Yes,5,6,5,500,300,Yes,10,5,Very different,5
+5/8/2021 11:28:37,Ontario,Yes,No,5,6,2,120,0,Maybe,10,6,Very different,4
+5/8/2021 12:04:36,Ontario,Yes,Yes,5,7,1,250,100,Yes,10,4,Somewhat different,5
+5/8/2021 13:25:38,Ontario,Yes,No,5,6,2,180,0,Yes,7,3,Very different,4
+5/8/2021 13:44:13,Ontario,Maybe,No,4,6,1,250,100,No,10,6,Very different,5
+5/8/2021 14:06:19,Ontario,Yes,No,4,5,1,180,0,Yes,10,7,Very different,5
+5/8/2021 14:55:20,British Columbia,No,No,5,6,5,200,100,No,8,3,Somewhat different,5
+5/8/2021 15:13:49,British Columbia,No,Yes,4,5,1,250,60,Maybe,10,5,Somewhat different,4
+5/8/2021 16:59:09,British Columbia,Yes,Yes,4,6,2,350,50,No,8,2,Somewhat different,4
+5/8/2021 17:15:56,Quebec,Yes,Yes,5,6,2,400,120,Maybe,9,5,Somewhat different,3
+5/8/2021 17:17:02,Ontario,Yes,No,5,6,2,200,30,Yes,10,4,Somewhat different,4
+5/8/2021 17:26:55,Alberta,No,No,5,7,1,200,50,Yes,10,3,Very different,5
+5/8/2021 18:19:03,Alberta,No,No,5,5,3,150,30,Yes,8,4,Very different,5
+5/8/2021 19:20:25,Ontario,Yes,No,4,6,2,120,30,Yes,8,5,Not sure,
+5/8/2021 20:12:58,Ontario,No,No,5,5,1,150,0,Maybe,9,6,Very different,5
+5/8/2021 20:22:09,Ontario,No,No,4,5,1,100,0,Maybe,10,7,Very different,5
+5/8/2021 20:59:59,British Columbia,No,No,5,5,2,150,0,Yes,10,8,Very different,4
+5/8/2021 21:19:59,Alberta,No,No,4,6,5,300,250,Yes,9,7,Somewhat similar,
+5/8/2021 21:24:59,British Columbia,Yes,Yes,3,7,3,420,210,Yes,7,6,Very different,2
+5/8/2021 22:19:28,New Brunswick,No,No,4,7,5,350,30,Yes,8,3,Somewhat different,2
+5/8/2021 22:52:15,Ontario,Yes,No,5,6,1,250,180,Maybe,9,5,Very different,5
+5/8/2021 23:28:41,Ontario,Maybe,No,5,6,1,180,30,No,8,5,Very different,4
